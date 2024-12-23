@@ -1,0 +1,13 @@
+<h3>Things I like about you!</h3>
+      <ul id="reasons">
+        <li>Your Smile</li>
+        <li>Your Eyes</li>
+        <li>You serve me so well</li>
+        <li>You make me feel like a child sometimes</li>
+        <li>You have this childish glee and excitement</li>
+        <li>I like the sound of your laughter</li>
+        <li>You're faithful</li>
+        <li>I love your scent</li>
+        <li>I love the way you look at me</li>
+        <li>You know how to touch me so well</li>
+      </ul>

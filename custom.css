@@ -1,0 +1,14 @@
+body{
+    background-image: url('bg7.jpg');
+    background-size: cover ;
+}
+
+.pattern{
+    background-image: url('bg.jpg');
+}
+
+li{
+    background: url('bg3.jpg');
+    background-size: cover;
+    font-family: Itim;
+}

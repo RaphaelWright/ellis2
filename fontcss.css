@@ -1,0 +1,33 @@
+@font-face {
+    font-family: 'Wild Love'; /* Name of the font */
+    src: url('./fonts/WildLove.otf') format('opentype'),
+            url('./fonts/WildLove.ttf') format('truetype');
+    font-weight: normal; ;
+    font-style: normal;
+  }
+
+
+  @font-face {
+    font-family: 'Atma'; /* Name of the font */
+    src: url('./fonts/Atma-Regular.ttf') format('truetype');
+    font-weight: normal; ;
+    font-style: normal;
+  }
+
+  @font-face {
+    font-family: 'Atma-Bold'; /* Name of the font */
+    src: url('./fonts/Atma-Bold.ttf') format('truetype');
+    font-weight: normal; ;
+    font-style: normal;
+  }
+
+  @font-face {
+    font-family: 'Itim-Regular'; /* Name of the font */
+    src: url('./fonts/Itim-Regular.ttf') format('truetype');
+    font-weight: normal; ;
+    font-style: normal;
+  }
+  
+
+
+  
